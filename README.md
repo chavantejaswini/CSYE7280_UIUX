@@ -1,6 +1,6 @@
 # CSYE7280_UIUX
 
-# UIUX Course Assignments
+# User Experience Design/Testing Course Assignments
 
 Welcome to my repository for the **UIUX** course! 
 This repository contains assignments and projects I’ve worked on during the course, showcasing various aspects of user interface and user experience design.
